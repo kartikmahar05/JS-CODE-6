@@ -19,7 +19,7 @@ while(i<11){
 
 
 var i=1;
-while(i<21){
+while(i<20){
     console.log(i,"^","2=",i**2);
     i++;
 
